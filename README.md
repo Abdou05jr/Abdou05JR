@@ -41,7 +41,7 @@
 
 ## 🚀 Projects:
 
-- 🔒 [Cybersecurity Learning Platform](https://github.com/Abdou05jr/cybersecurity-platform)
+- 🔒 [Cybersecurity Learning Platform](https://github.com/Abdou05jr/cyber)
 - 💻 [DevAssist Frontend Coding Assistant](https://github.com/Abdou05jr/devassist)
 - 🐳 [Dockerized Web Pentest Lab](https://github.com/Abdou05jr/docker-pentest-lab)
 
