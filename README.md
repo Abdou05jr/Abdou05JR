@@ -14,13 +14,21 @@
 ## 📫 How to reach me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abderrahmane-benaamar-18b30a242/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="linkedin" /></a>
-  
-  <a href="https://twitter.com/levy_devil" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="twitter" /></a>
-  
-  <a href="https://www.instagram.com/kairosseeker_7/" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="instagram" /></a>
+   <a href="https://www.linkedin.com/in/abderrahmane-benaamar-18b30a242/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-  <a href="mailto:abdouwacc3@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="gmail" /></a>
+  <a href="https://twitter.com/levy_devil/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+
+  <a href="https://www.instagram.com/kairosseker_7/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+  <a href="mailto:abdouwacc3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
