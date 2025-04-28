@@ -18,7 +18,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,linux,kali,C" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,linux,kali,c, =tsx" />
 </p>
 
 ---
