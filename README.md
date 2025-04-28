@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Levy7</h1>
-<h3 align="center">A passionate Cybersecurity and Web Developer from Morocco</h3>
+<h1 align="center">Hi 👋, I'm Abdou Benaamar</h1>
+<h3 align="center">A passionate Web Developer from Morocco</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=levy7&label=Profile%20views&color=0e75b6&style=flat" alt="levy7" />
@@ -8,18 +8,17 @@
 ---
 
 - 🔭 I’m currently working on **Cybersecurity Learning Platform**
-- 🌱 I’m currently learning **Advanced JavaScript and Ethical Hacking**
+- 🌱 I’m currently learning **Advanced JavaScript, prompting and automation**
 - 👯 I’m looking to collaborate on **Open Source Security Projects**
-- 💬 Ask me about **Web Security, Penetration Testing, Frontend Development**
-- 📫 How to reach me **levy7@example.com**
-- ⚡ Fun fact **I love solving CTFs (Capture The Flag challenges)!**
+- 💬 Ask me about **Web Security, Automation, back and frontend Development**
+- 📫 How to reach me **abdouwacc3@gmail.com.com**
 
 ---
 
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,linux,kali,C" />
 </p>
 
 ---
