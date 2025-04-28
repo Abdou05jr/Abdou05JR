@@ -18,7 +18,7 @@
 ## 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,linux,kali,c,tsx" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,linux,kali,c,django" />
 </p>
 
 ---
@@ -26,23 +26,23 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=levy7&show_icons=true&theme=radical" alt="levy7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdou05jr&show_icons=true&theme=radical" alt="Abdou05jr" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=levy7&theme=radical" alt="levy7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdou05jr&theme=radical" alt="Abdou05jr" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=levy7&layout=compact&theme=radical" alt="levy7" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou05jr&layout=compact&theme=radical" alt="Abdou05jr" />
 </p>
 
 ---
 
 ## 🚀 Projects:
 
-- 🔒 [Cybersecurity Learning Platform](https://github.com/levy7/cybersecurity-platform)
-- 💻 [DevAssist Frontend Coding Assistant](https://github.com/levy7/devassist)
-- 🐳 [Dockerized Web Pentest Lab](https://github.com/levy7/docker-pentest-lab)
+- 🔒 [Cybersecurity Learning Platform](https://github.com/Abdou05jr/cybersecurity-platform)
+- 💻 [DevAssist Frontend Coding Assistant](https://github.com/Abdou05jr/devassist)
+- 🐳 [Dockerized Web Pentest Lab](https://github.com/Abdou05jr/docker-pentest-lab)
 
 ---
