@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
 
-  <a href="https://www.instagram.com/kairosseker_7/" target="_blank">
+  <a href="https://www.instagram.com/kairosseeker_7/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 
