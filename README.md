@@ -1,66 +1,101 @@
 <h1 align="center">Hi 👋, I'm Abdou Benaamar</h1>
-<h3 align="center">A passionate Web Developer from Morocco</h3>
+<h3 align="center">Full-Stack Developer • Mobile Dev • Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=levy7&label=Profile%20views&color=0e75b6&style=flat" alt="levy7" />
-</p>
+<p align="center"><strong>levy7</strong></p>
 
 ---
 
-- 🔭 I’m currently working on **Cybersecurity Learning Platform**
-- 🌱 I’m currently learning **Advanced JavaScript, prompting and automation**
-- 👯 I’m looking to collaborate on **Open Source Security Projects**
-- 💬 Ask me about **Web Security, Automation, back and frontend Development**
-## 📫 How to reach me:
+## 🔭 **About Me**
+- 🔐 Currently building a **AfriMed-Ai application**
+- 🤖 Working with **Deep Learning & Machine Learning** (CNNs, Transfer Learning, Data Pipelines)
+- 👁️ Recently developed an **Eye Disease Classification Model (ODIR)** using CNNs + metadata
+- 🏫 Previously built an **IUT Application** (academic/management system)
+- 🌱 Learning **deep and machine learning**, **Prompt Engineering**, and **Automation**
+- 🤝 Looking to collaborate on **Open Source Security & AI Projects**
+- 💬 Ask me about **Web Security, Automation, Frontend/Backend, and ML**
 
+---
+
+## 📫 **How to Reach Me**
 <p align="left">
-   <a href="https://www.linkedin.com/in/abderrahmane-benaamar-18b30a242/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://twitter.com/levy_devil/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-
-  <a href="https://www.instagram.com/kairosseeker_7/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-
-  <a href="mailto:abdouwacc3@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<a href="https://www.linkedin.com/in/abderrahmane-benaamar-18b30a242/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+<a href="https://x.com/levy_devil" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+<a href="abdoujunior37@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools:
+## 🧠 **Skills (Web, app & AI)**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,docker,linux,kali,c,django" />
+### **💻 Web Development**
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,nodejs,express,python,django" />
 </p>
+
+### **🛡️ Cybersecurity**
+<p>
+<img src="https://skillicons.dev/icons?i=kali,bash,linux,docker" />
+</p>
+
+### **🤖 Machine Learning & Deep Learning**
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,keras,pytorch,opencv" />
+</p>
+
+- CNNs & Transfer Learning  
+- Data generators & `tf.data` pipelines  
+- Image preprocessing & augmentation  
+- Medical imaging classification (ODIR dataset)  
+- Optimization (F1-score tuning, fine-tuning, unfreezing strategies)
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdou05jr&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou05jr&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdou05jr&show_icons=true&theme=radical" alt="Abdou05jr" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdou05jr&theme=radical" alt="Abdou05jr" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdou05jr&layout=compact&theme=radical" alt="Abdou05jr" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdou05jr&theme=tokyonight" height="160">
 </p>
 
 ---
 
-## 🚀 Projects:
+## 🚀 **Featured Projects**
 
-- 🔒 [Cybersecurity Learning Platform](https://github.com/Abdou05jr/cyber)
-- 💻 [DevAssist Frontend Coding Assistant](https://github.com/Abdou05jr/devassist)
-- 🐳 [Dockerized Web Pentest Lab](https://github.com/Abdou05jr/docker-pentest-lab)
+### 🔒 **Cybersecurity Learning Platform**
+Full platform containing modules, real labs, Docker-based VMs, terminal integration, and hands-on cybersecurity exercises.
 
 ---
+
+### 💻 **DevAssist — Frontend Coding Assistant**
+A smart assistant that generates components, UI code, and explains concepts to help speed up development.
+
+---
+
+### 🧠 **Eye Disease Classification — ODIR CNN Project**
+- Built a **deep learning model** using **CNN + metadata (age, sex)**  
+- Data preprocessing & image normalization  
+- Custom data generator → migrated to `tf.data.Dataset`  
+- Optimized using **F1-score**, unfreezing layers, and better training strategy  
+- Trained on **Google Colab + GPU**
+
+---
+
+### 🏫 **AfriMed-Ai Application**
+A complete application developed during IUT:
+- Authentication & student management  
+- Dynamic dashboards  
+- CRUD operations  
+- Organized data workflows  
+
+---
+
+## ⭐ **Support**
+If you like my work, please ⭐ my repositories — it helps!
+
+---
+
+Thanks for visiting! 😄
